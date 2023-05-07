@@ -1,0 +1,8 @@
+{
+    "cmake.sourceDirectory": "${workspaceFolder}/.vscode-server/extensions/twxs.cmake-0.0.17/node_modules/peg-cmake/test",
+    "files.associations": {
+        "atomic": "cpp",
+        "cstdint": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
